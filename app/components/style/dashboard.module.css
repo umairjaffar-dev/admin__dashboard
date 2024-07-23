@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.menu {
+  flex: 1;
+  background: var(--bgSoft);
+  padding: 20px;
+}
+
+.content {
+  flex: 4;
+  padding: 20px;
+}
